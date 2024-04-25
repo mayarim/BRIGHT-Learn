@@ -3,6 +3,12 @@
 
 ![Marin_Poster](https://github.com/mayarim/BRIGHT-Learn/assets/75183224/cfd23567-8a4f-4eb2-91c8-e752d1101683)
 
+## Source code: 
+I used FastLED and SerialMP3Player Arduino libraries and wrote a program, Game.ino, integrating these into a game loop. The toy welcomes Marin to teh game, then prompts her to press the button of a random color. If she pressees the correct one, then the toy says "Good job" and a song plays to reward her. If she presses the incorrect one, the lights guide her towards the correct section. Currently, the code is rather disorganized, but future plans include re-factoring to create a "color" struct with various fields and filepaths in order to streamline readability. Additionally, more code will be introduced in later iterations to make the game loop more exciting and engaging. 
+
+## 3D Models: 
+The physical casing for the toy was constructed using a modular design of six "box segment" pieces around one "pie core" piece. The central core piece has columns that hold a stand for the speaker to rest on, so that it can be closer to the lid and allow more sound to pass through. All 3D models were created in Solidworks. The lid was laser cut from 1/8" plywood, then painted with a different color for each of six sections. In order to let the 3D strip lights show through from the inside, small "window" slots were cut out, and corresponding "windows" were cut out of 1/8" clear acrylic and press fit inside to make the lights visible. The cad_models folder includes all .stl and .sldprt files of 3D-printed parts, .dxf files for laser-cut parts, and a .sldasm file showing the assembly. 
+
 Components used: 
 * Arduino Mega 2650: https://store.arduino.cc/products/arduino-mega-2560-rev3
   
