@@ -9,7 +9,7 @@ I used FastLED and SerialMP3Player Arduino libraries and wrote a program, Game.i
 ## 3D Models: 
 The physical casing for the toy was constructed using a modular design of six "box segment" pieces around one "pie core" piece. The central core piece has columns that hold a stand for the speaker to rest on, so that it can be closer to the lid and allow more sound to pass through. All 3D models were created in Solidworks. The lid was laser cut from 1/8" plywood, then painted with a different color for each of six sections. In order to let the 3D strip lights show through from the inside, small "window" slots were cut out, and corresponding "windows" were cut out of 1/8" clear acrylic and press fit inside to make the lights visible. The cad_models folder includes all .stl and .sldprt files of 3D-printed parts, .dxf files for laser-cut parts, and a .sldasm file showing the assembly. 
 
-Components used: 
+## Components used: 
 * Arduino Mega 2650: https://store.arduino.cc/products/arduino-mega-2560-rev3
   
 ![image](https://github.com/mayarim/BRIGHT-Learn/assets/75183224/7b88fdf2-e105-4f9c-8de6-7033c2bfd053)
