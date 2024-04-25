@@ -1,9 +1,7 @@
 # BRIGHT-Learn: Building Responsive Interactions for Growth, Healing, and Therapeutic Learning
 ### Custom-designed toy for a developmentally disabled child in order to facilitate comfort and enjoyment of occupational therapy activities.
 
-<img src="https://github.com/mayarim/BRIGHT-Learn/assets/75183224/6c08ce8e-65f5-4a91-b903-3de295a9c057" alt="drawing" width="200" height="200"/>
-
-<img src = "https://github.com/mayarim/BRIGHT-Learn/assets/75183224/acca6743-deb3-4403-a70e-baf28389ef91" width="200" height="200"/>
+![Marin_Poster](https://github.com/mayarim/BRIGHT-Learn/assets/75183224/cfd23567-8a4f-4eb2-91c8-e752d1101683)
 
 Components used: 
 * Arduino Mega 2650: https://store.arduino.cc/products/arduino-mega-2560-rev3
